@@ -9,7 +9,7 @@ export const Product = () => {
         <h1>Sản phẩm</h1>
           {dl.map((value, key) => {
               return (
-                <h2>Tên sản phẩm: <Link to={`/oneproduct/${value.id}`} style={{textDecoration: 'none', color: 'black'}}>{value.name}</Link></h2>
+                <h2>Tên sản phẩm: <Link to={"/oneproduct/"+value.id} style={{textDecoration: 'none', color: 'black'}}>{value.name}</Link></h2>
               )
             })}
     </div>

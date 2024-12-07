@@ -9,16 +9,18 @@
         "id":2,
         "name":"áo ba lổ",
         "price":130,
-        "hinh":"../img/h1.jpg"
+        "hinh": "https://vulcano.sgp1.digitaloceanspaces.com/media/12084/ao_balo_3002w_vulcano-%281%29.jpg"
     },
     {
         "id":3,
         "name":"áo mưa nhỏ",
-        "price":200
+        "price":200,
+        "hinh": "https://aomuasonthuy.com/wp-content/uploads/2023/03/ao-mua-choang-tre-em-sieu-nhe-3-e1660897643117-3-720x887.jpg"
     },
     {
         "id":4,
         "name":"áo sơ mi",
-        "price":170
+        "price":170,
+        "hinh": "https://product.hstatic.net/200000588671/product/ao-so-mi-nam-bycotton-trang-art-nhan_8ec622a241ea4deb93a02bdbdcb87954.jpg"
     }
 ]
